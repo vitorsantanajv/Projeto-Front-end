@@ -4,7 +4,7 @@ function Metodologia() {
   return (
     <div>
       
-          
+          <h1>METODOLOGIA</h1>
       
       <div className="container primeiro-container">
         <div className="content">

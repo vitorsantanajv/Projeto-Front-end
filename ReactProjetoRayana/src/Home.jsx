@@ -9,6 +9,8 @@ function Home() {
   return (
     <>
       <div className="root"></div>
+      <h1>PROJETO</h1>
+      <h2>CRIANÇAS E IDOSOS NO MUNDO DA TECNOLOGIA</h2>
       <div className="container primeiro-container">
         <div className="content">
           <img id="up" src="up.png" alt="Descrição da imagem" />
